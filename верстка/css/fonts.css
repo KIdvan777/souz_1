@@ -1,0 +1,9 @@
+@font-face{
+font-family:"PT Sans";
+    src:url("../fonts/PT Sans/PT Sans Narrow.eot");
+    src:url(../fonts/PT Sans/Pt Sans .eot?#iefix)format("embeded-opentype"),
+    url("../fonts/PT Sans/PT Sans .woff") format("woff"),
+    url("../fonts/PT Sans/PT Sans .ttf") format("truetype");
+    font-style:Narrow;
+    font-weight:Narrow;
+}
